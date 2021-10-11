@@ -1,0 +1,13 @@
+[package]
+name = "compress"
+version = "0.0.1"
+edition = "2021"
+authors = ["soulmachine <soulmachine@gmail.com>"]
+description = "A multi-threaded compress tool written in Rust."
+license = "Apache-2.0"
+repository = "https://github.com/soulmachine/compress"
+keywords = ["compress", "pigz", "pixz"]
+
+[dependencies]
+flate2 = "1"
+xz2 = "0.1"
