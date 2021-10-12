@@ -1,4 +1,4 @@
-# crypto-cli-tools
+# compress
 
 A multi-threaded compress tool written in Rust.
 
